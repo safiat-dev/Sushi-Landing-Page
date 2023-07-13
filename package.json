@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "aos": "^2.3.4",
     "modules": "^0.4.0",
     "node": "^20.4.0"
+  },
+  "scripts": {
+    "dev": "vite"
   }
 }
